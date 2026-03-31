@@ -1,13 +1,13 @@
 <div align="center">
 
 <h1 style="font-family:'Orbitron', monospace; color:#00ffea; animation:scroll 8s linear infinite; white-space:nowrap;">
-🌋𝐋𝐀𝐒𝐄𝐑-𝐌𝐃🌋
+🌋DANGA-L.D🌋
 </h1>
 
 <img src="https://files.catbox.moe/jwud0d.jpg" width="160" style="border-radius:20px; box-shadow:0 0 40px #00ffea;" />
 
-# LASER-MD
-𝐋𝐀𝐒𝐄𝐑-𝐌𝐃
+# HASTLE-L.D
+HASTLE HAy
 𝐂𝐑𝐄𝐀𝐓𝐄 𝐘𝐎𝐔𝐑 𝐎𝐖𝐍𝐄𝐑 𝐁𝐎𝐓
 
 
@@ -38,7 +38,7 @@ This is not just a bot — it’s a learning tool to help you grow in developmen
 ## 🔗 Connect With Us
 
 ### Project Owner: Dev Weed
-<a href='https://wa.me/+50939032060?text=*_Hello+Dev Weed👋_*' target="_blank">
+<a href='https://wa.me/+263718371267?text=*_Hello+Dev Weed👋_*' target="_blank">
   <img alt='WhatsApp' src='https://img.shields.io/badge/Contact_Owner-0033CC?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
 
